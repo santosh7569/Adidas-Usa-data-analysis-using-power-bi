@@ -5,8 +5,9 @@ This project involves the creation of a comprehensive Sales Dashboard for Adidas
 
 The objective of the project was to create interactive and insightful visualizations that offer valuable business insights for decision-making and performance evaluation. The data was cleaned and transformed using Power Query Editor and enhanced with DAX Functions to calculate key performance indicators (KPIs) and provide meaningful insights.
 
-## dashboard
-
+## Dashboard
+<https://github.com/santosh7569/Adidas-Usa-data-analysis-using-power-bi/blob/main/adidas%20us%20sales%20data.pbix
+<a name="https://github.com/santosh7569/Adidas-Usa-data-analysis-using-power-bi/blob/main/adidas%20us%20sales%20data.pbix"></a>)
 
 ## Features
 Data Cleaning and Transformation:
